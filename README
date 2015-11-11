@@ -1,2 +1,8 @@
+Installation:
+Enter csgo/cfg folder then:
+git init .
+git remote add -t \* -f origin https://github.com/mauriciozaffari/csgocfg.git
+git checkout -f master
+
 Initialization Options:
 -novid -tickrate 128 -high -threads 4 +clientport 27015 -freq 76 -w 1024 -processheap
