@@ -1,0 +1,2 @@
+Initialization Options:
+-novid -tickrate 128 -high -threads 4 +clientport 27015 -freq 76 -w 1024 -processheap
