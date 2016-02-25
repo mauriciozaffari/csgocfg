@@ -5,4 +5,4 @@ git remote add -t \* -f origin https://github.com/mauriciozaffari/csgocfg.git
 git checkout -f master
 
 Initialization Options:
--novid -tickrate 128 -high -threads 4 +clientport 27015 -freq 144 -w 1024 -processheap
+-novid -tickrate 128 -high -freq 144
